@@ -1,0 +1,2 @@
+# KalkulatorC
+Kalkulator sederhana c++
