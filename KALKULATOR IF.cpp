@@ -19,15 +19,15 @@ int main(){
 		cout<<"Hasilnya adalah "<<a+b;
 	}
 	
-	if(operasi == '-'){
+	else if(operasi == '-'){
 		cout<<"Hasilnya dalah "<<a-b;
 	}
 	
-	if(operasi == '*'){
+	else if(operasi == '*'){
 		cout<<"Hasilnya adalah "<<a*b;
 	}
 	
-	if (operasi == '/'){
+	else if (operasi == '/'){
 		cout<<"Hasilnya adalah "<<a/b;
 	}
 	return 0;
