@@ -1,5 +1,5 @@
-#include <iostream>    //Pemilik program Alvin F B Panengkoan
-using namespace std;	//Stambuk F55120057
+#include <iostream>   
+using namespace std;	
 
 int main(){
 	
